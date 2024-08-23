@@ -1,4 +1,4 @@
-package org.example;
+package chems;
 
 import org.junit.jupiter.api.Test;
 
